@@ -366,6 +366,7 @@ export async function POST(request: Request) {
         country,
         region,
         city,
+        tag,
         lcp,
         inp,
         cls,
